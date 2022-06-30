@@ -53,6 +53,7 @@ body {
 
 ul {
   list-style: none;
+  display: flex;
 }
 
 img {
@@ -298,7 +299,7 @@ body.menu-expanded button path {
 #home::before {
   content: '';
   width: 100%;
-  height: calc(76% + var(--nav-height));
+  height: calc(100% + var(--nav-height));
   background-color: var(--brand-light);
   display: block;
 
