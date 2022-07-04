@@ -20,4 +20,4 @@ Faça o clone do repositório para ter uma versão do projeto em sua máquina:<b
 `$ git clone https://github.com/mmanaclara/nlw-doctor-care.git` 
 
 ## 📝 Licença
-Este projeto está licenciado nos termos da licença [MIT](https://github.com/mmanaclara/nlw-doctor-care/blob/main/LICENSE.md). 
+Este projeto está licenciado nos termos da licença [MIT]https://github.com/mmanaclara/nlw-doctor-care/blob/main/LICENSE). 
