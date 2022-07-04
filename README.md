@@ -17,7 +17,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 💾 Baixar o projeto
 Faça o clone do repositório para ter uma versão do projeto em sua máquina:<br/>
-`$ git clone https://github.com/mmanaclara/nlw-8.git` 
+`$ git clone https://github.com/mmanaclara/nlw-doctor-care.git` 
 
 ## 📝 Licença
-Este projeto está licenciado nos termos da licença [MIT](https://github.com/mmanaclara/nlw-8/blob/main/LICENSE.md). 
+Este projeto está licenciado nos termos da licença [MIT](https://github.com/mmanaclara/nlw-doctor-care/blob/main/LICENSE.md). 
